@@ -1,0 +1,22 @@
+Necesito que hagas un programa en Python que haga lo siguiente:
+Necesito que pidas al usuario por terminal su nombre y su año de nacimiento.
+Crea un método para calcular la edad de esa persona recibiendo como parámetro el año de nacimiento introducido anteriormente.
+Siguiente requisito, crea otro método que recoja la edad calculada anteriormente 
+y debe ser clasificado como menor de edad (<18 años), mayor de edad (entre 18 y 65 años) 
+y persona mayor (>65 años). Debes de manejar posibles errores como que el usuario no haya 
+introducido algún valor como el nombre o el año de nacimiento, obviamente antes de si quiera 
+operar con algunos de esos valores. Debe estar todo el código documentado con comentarios simples y 
+concisos. Como algo extra me gustaría que implementases una opción extra es que generes un número al azar 
+y que sea del 0 al 5, siendo 5 muy enfadado y 0 muy feliz, indicando que tan feliz está esa persona hoy.
+
+Explicame de manera simple que es este trozo de código: 
+# Punto de entrada del programa 
+if __name__ == "__main__": main()
+
+
+Quiero que hagas otro ejercicio, en este caso debes pedir al usuario por terminal 3 números, 
+debes comprobar que sean 3 números, en caso de que no se cumpla la condición de que los 3 valores lo 
+sean, termina el programa. Una vez tengamos esos 3 números recibidos por consola, procederemos a hacer 
+la suma, la media y mayor. Luego como apartado extra me gustaría que los ordenes de mayor a menor 
+mostrandolos por consola de la siguiente manera: EJEMPLO: 19 > 8 > 3 Recuerda que los comentarios 
+tienen que ser en todo momento claros y concisos.
