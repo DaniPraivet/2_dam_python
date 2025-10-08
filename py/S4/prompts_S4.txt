@@ -39,6 +39,16 @@ Si el usuario introduce "Hola buenas tardes":
 Las vocales cuentan +4 y las consonantes -1, por lo que: 
 Si no me fallan las cuentas "Hola buenas tardes" equivale a 16
 
+Me gustaría que solo contases las letras, ni numeros, ni caracteres totales, pero recuerda no poner en 
+riesgo la dificultad del ejercicio, no quiero que uses expresiones regulares ni nada que suba demasiado 
+la dificultad del ejercicio, para que yo pueda comprenderlo correctamente.
+
+--------------------------------------------------------------------------------------------------------
+
+Me gustaría que hagas este último ejercicio: Un programa que reciba un número y nos diga si es primo 
+o no. Recuerda que no debe ser muy complejo. Debe estar comentado con mensajes claros y concisos. 
+Controlar si hubiesen excepciones con "try except". Como paso adicional dime el siguiente número primo.
+
 Me gustaría que solo contases las letras, ni numeros, ni caracteres totales, pero recuerda no poner 
 en riesgo la dificultad del ejercicio, no quiero que uses expresiones regulares ni nada que suba 
 demasiado la dificultad del ejercicio, para que yo pueda comprenderlo correctamente.
