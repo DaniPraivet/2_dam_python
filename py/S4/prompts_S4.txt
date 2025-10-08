@@ -1,0 +1,44 @@
+Me gustaría que realizases el siguiente ejercicio: Escribe un programa que pida una lista de 
+números separados por comas, convierta a floats, calcule suma, media y máximo, y detecte duplicados. 
+Recuerda lo que te digo siempre sobre como tiene que estar el código, tiene que tener comentarios 
+claros y concisos sobre cada cosa que hagas dentro del código para un mayor entendimiento sobre lo 
+que estamos leyendo. Como pequeña adición al ejercicio, me gustaría que cada número que yo pase, 
+lo transformes a una letra del abecedario y al final formes una palabra con esas letras generadas, 
+no hace falta que tenga significado o esté registrada en ninguna lengua.
+
+A lo que se refiere por duplicados es a lo siguiente: 
+1, 2, 3, 4, 2 
+Duplicados: 2
+
+1, 1, 2, 2, 2, 3, 4 
+Duplicados: 1, 2
+
+--------------------------------------------------------------------------------------------------------
+
+A continuación quiero que me hagas el siguiente programa: 
+Quiero que hagas un conversor de temperaturas de Celsius a kelvin o a Fahrenheit. 
+Recuerda lo de siempre de los comentarios y como tiene que estar el código. 
+Como pequeña adición me gustaría que dijeses lo siguiente dependiendo de la temperatura 
+que introduzca el usuario: 
+x < 50 = "Hace mucho calor" 
+x < 35 = "Hace calor" 
+x < 25 = "Se está bien" 
+x < 15 = "Hace fresquito" 
+x < 0 = "Me congelo" 
+Recuerda que esto son grados Celsius, ya que el usuario pasa un número
+
+--------------------------------------------------------------------------------------------------------
+
+Ahora haz un programa : Que reciba una cadena y cuente las vocales que tiene, las consonantes, 
+las mayúsculas y el número de caracteres. Quiero que controles los posibles errores con "try except:". 
+Quiero que sea código limpio y simple. Quiero que esté comentado en cada paso que hagas para que se 
+entienda con total claridad para que cualquier persona lo entienda, recordando que tiene que ser claro 
+y conciso en todo momento. Como algo adicional, me gustaría que al final del conteno de vocales y 
+consonantes se le asigne un valor al texto, te lo explico. 
+Si el usuario introduce "Hola buenas tardes": 
+Las vocales cuentan +4 y las consonantes -1, por lo que: 
+Si no me fallan las cuentas "Hola buenas tardes" equivale a 16
+
+Me gustaría que solo contases las letras, ni numeros, ni caracteres totales, pero recuerda no poner 
+en riesgo la dificultad del ejercicio, no quiero que uses expresiones regulares ni nada que suba 
+demasiado la dificultad del ejercicio, para que yo pueda comprenderlo correctamente.
