@@ -1,0 +1,30 @@
+Ahora quiero que hagas otro ejercicio, te explico el enunciado: 
+El archivo lo voy a llamar analisis_notas.py, aunque no te va a hacer mucha falta 
+saberlo ya que solo necesitas hacer el código. Tienes que pedirle al usuario una 
+lista de notas (números enteros separados por comas), debes mostrar un resumen 
+estadístico similar al de un boletín de aula: 
+- Número total de notas. 
+- Media, nota mínima y máxima 
+- Porcentaje de aprobados (>= 5) y de sobresalientes (>= 9). 
+- Mensaje final: - Nivel excelente si la media >= 8 
+- Nivel medio si la media está entre 5 y 7.9 
+- Necesita esfuerzo si la media es inferior a 5 (< 5) 
+Como requisitos técnicos: 
+- Validar que todos los valores sean numéricos mediante el try/except. 
+- Redondear la media 2 decimales. 
+- Mostrar resultados formateados con f-strings (sin subir la complejidad a la hora de mostrarlos) 
+- Debes proveer en todo momento comentarios simples y concisos de lo que estás haciendo en todo momento, 
+como siempre. 
+Como pequeña adición, quiero que le digas al usuario su mejor asignatura y su peor asignatura, 
+el listado de las asignaturas va en el siguiente orden: 
+Programación multimedia y dispositivos móviles 
+Acceso a datos 
+Desarrollo de interfaces 
+Sistemas de gestión empresarial 
+Proyecto Intermodular 
+Programación de servicios y procesos 
+Itinerario personal para la empleabilidad II 
+Optativa Grado Superior 
+Inglés Profesional Grado Superior 
+Si el usuario no introduce las 8 asignaturas, dará un error y terminará el programa, 
+comprobandolo mediante la longitud del array extrayendo cada una de las notas.
